@@ -22,6 +22,7 @@ Our analysis generates three plots and provides useful insights from the data we
 ![Return Volatility Ratio](return_vol_ratio_bar_chart.png)
 ![Volatility Chart](volatility_bar_chart.png)
 ![Trade Activity by Time](trade_activity_density.png)
-![Statistics](analysis_statistics.png)
+![Statistics](analysis_statistics.png) 
+ 
 
 
