@@ -1,4 +1,4 @@
-# Submission Write - Tech Financial Trades Analysis
+# Submission Write Up- Tech Financial Trades Analysis
 
 ### Names: 
 Benjamin Berinsky, Will Wert
