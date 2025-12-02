@@ -16,6 +16,9 @@ We cam across another major obstacle when working with the EIA API. Although we 
 
 
 ### Analysis
+Across the four regions, temperature and electricity load form a consistent U-shape, but the magnitude of the curvature varies by location. The basic scatter plot shows that load rises both in very cold and very hot conditions, but the quadratic fits quantify the differences. IAD has the steepest curvature, suggesting its demand is highly sensitive to temperature swings in either direction. LAX shows almost no cold-weather response but a strong upward curve in high temperatures, reflecting its climate and reliance on cooling. BOS and NYC fall between these extremes with more moderate curvature.
+The bar chart reinforces this. IAD experiences unusually high load on both cold and hot days, while LAX’s load increases almost entirely on hot days. Finally, the daily time-series shows persistent seasonal cycles, with IAD’s winter peaks standing out and LAX showing pronounced summer surges. Overall, the visualizations reveal how the similar temperature changes translate into very different electricity demand profiles depending on regional climate and usage patterns.
+
 
 ### Visualization
 ![alt text](bar_temp_vs_load.png)
